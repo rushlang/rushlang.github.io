@@ -1,6 +1,8 @@
 ﻿
 ### 博客
 
+[对“当且仅当”的质疑](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/7.md)
+
 [公平的中国象棋](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/6.md)
 
 [智商互虐游戏](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/5.md)
