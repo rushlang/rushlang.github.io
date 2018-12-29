@@ -90,7 +90,7 @@
 |UNIX环境高级编程|听说不错|
 |<br/>|<br/>|
 |计算机程序的构造与解释|好书，学习写解释器|
-|The Little Scheme|神书，据说小学生都能看懂|
+|The Little Schemer|神书，据说小学生都能看懂|
 |On Lisp|还行|
 |实用Common Lisp编程|不行|
 |<br/>|<br/>|
