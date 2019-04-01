@@ -3,7 +3,7 @@
 
 [一种可以自我修改的计算机器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/8.md)
 
-[对“当且仅当”的质疑](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/7.md)
+[对“当且仅当”的思考](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/7.md)
 
 [公平的中国象棋](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/6.md)
 
