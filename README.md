@@ -1,7 +1,7 @@
 ﻿
 ### 博客
 
-[如何抬扛？](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
+[如何抬杠？](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
 
 [一种可以自我修改的计算机器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/8.md)
 
