@@ -1,6 +1,8 @@
 ﻿
 ### 博客
 
+[如何抬扛？](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
+
 [一种可以自我修改的计算机器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/8.md)
 
 [对“当且仅当”的思考](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/7.md)
