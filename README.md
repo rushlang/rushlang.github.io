@@ -1,7 +1,7 @@
 ﻿
 ### 博客
 
-[一次辩论记录](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
+[关于语言空间的辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
 
 [一种可以自我修改的计算机器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/8.md)
 
