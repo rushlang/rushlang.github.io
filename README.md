@@ -1,6 +1,8 @@
 ﻿
 ### 博客
 
+[对亲子关系的研究](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/parent.md)
+
 [关于“文字游戏”的辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
 
 [一种可以自我修改的计算机器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/8.md)
