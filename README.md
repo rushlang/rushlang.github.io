@@ -1,6 +1,8 @@
 ﻿
 ### 博客
 
+[心理博弈](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/心理博弈.md)
+
 [对亲子关系的研究](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/parent.md)
 
 [关于“文字游戏”的辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/talk.md)
