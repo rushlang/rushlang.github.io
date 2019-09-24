@@ -17,8 +17,7 @@
 
 [如何证明任何使用无理数的计算机游戏都是错误的？](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/如何证明任何使用无理数的计算机游戏都是错误的.md)
 
-[改变自己](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/改变自己
-.md)
+[改变自己](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/改变自己.md)
 
 [“相对论”概述（初中时写的）](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/相对论概述.md)
 
