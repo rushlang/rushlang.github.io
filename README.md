@@ -19,6 +19,8 @@
 
 #### 随笔：
 
+[意识流](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/意识流.md)
+
 [专才与通才](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/专才与通才.md)
 
 [心理博弈](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/心理博弈.md)
