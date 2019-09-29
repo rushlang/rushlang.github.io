@@ -19,9 +19,11 @@
 
 #### 随笔：
 
-[我为什么喜欢辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/我为什么喜欢辩论.md)
+[专才与通才](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/专才与通才.md)
 
 [心理博弈](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/心理博弈.md)
+
+[我为什么喜欢辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/我为什么喜欢辩论.md)
 
 [对“当且仅当”的思考](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对当且仅当的思考.md)
 
