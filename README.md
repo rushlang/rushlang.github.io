@@ -36,3 +36,5 @@
 #### 口语化文章（音频）：
 
 [《我是个怪圈》读后感](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/我是个怪圈读后感.md)
+
+本博客的版权归roundsheep所有
