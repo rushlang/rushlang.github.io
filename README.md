@@ -1,8 +1,6 @@
 ﻿
 ### 博客
 
-<br/>
-
 #### 深度思考：
 
 [对亲子关系的研究](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对亲子关系的研究.md)
@@ -19,8 +17,6 @@
 
 [“相对论”概述（初中时写的）](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/相对论概述.md)
 
-<br/>
-
 #### 随笔：
 
 [意识流](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/意识流.md)
@@ -36,8 +32,6 @@
 [改变自己](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/改变自己.md)
 
 [书单](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/书单.md)
-
-<br/>
 
 #### 口语化文章（音频）：
 
