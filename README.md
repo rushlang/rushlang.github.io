@@ -1,6 +1,8 @@
 ﻿
 ### 博客
 
+<br/>
+
 #### 深度思考：
 
 [对亲子关系的研究](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对亲子关系的研究.md)
@@ -16,6 +18,8 @@
 [如何证明任何使用无理数的计算机游戏都是错误的？](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/如何证明任何使用无理数的计算机游戏都是错误的.md)
 
 [“相对论”概述（初中时写的）](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/相对论概述.md)
+
+<br/>
 
 #### 随笔：
 
@@ -33,8 +37,12 @@
 
 [书单](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/书单.md)
 
+<br/>
+
 #### 口语化文章（音频）：
 
 [《我是个怪圈》读后感](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/我是个怪圈读后感.md)
+
+<br/>
 
 本博客的版权归roundsheep所有
