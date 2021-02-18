@@ -19,6 +19,8 @@
 
 #### 随笔：
 
+[控制与反控制](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/控制与反控制.md)
+
 [意识流](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/意识流.md)
 
 [专才与通才](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/专才与通才.md)
