@@ -41,4 +41,4 @@
 
 <br/>
 
-本博客的版权归roundsheep所有
+本博客的著作权归roundsheep所有
