@@ -3,6 +3,8 @@
 
 #### 深度思考：
 
+[奇特的自我辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/奇特的自我辩论.md)
+
 [对亲子关系的研究](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对亲子关系的研究.md)
 
 [关于“文字游戏”的辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/关于文字游戏的辩论.md)
