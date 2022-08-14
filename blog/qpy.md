@@ -17,22 +17,13 @@ QuickPy是一门新编程语言，它的语法和Python完全相同，但性能�
 - 最小化用户击键次数。因为语法和Python完全相同。换句话说就是，QuickPy拥有C++的性能却可以比C++代码量更小。
 - 牺牲编译速度换取运行速度。因为编译管线多了两个步骤，编译速度比C++慢0.5倍。
 
-##### 性能测试：
+##### 性能测试：（win10 x64，i5-8500 3.00 GHZ）
 
-win7 x64，cpu是老古董笔记本的intel N2940 1.83GHZ：（因该cpu性能较弱，固循环次数与代码中不同）
-
-||C++（VS2019 -O2 x64）|QuickPy -O0 x64|QuickPy -O2 x64|pypy-3.8-v7.3.7-win64|
+||C++（VS2019 /O2 x64）|QuickPy -O0 x64|QuickPy -O2 x64|pypy-3.8-v7.3.7-win64|
 |:---:|:---:|:---:|:---:|:---:|
-|递归计算fib|9.392 s|15.963 s|9.895 s|33.140 s|
-|循环叠加字符串|-|19.375 s|14.586 s|20.782 s|
-|双重循环整数计算|0.561 s|5.865 s|0.592 s|7.035 s|
-
-win7 x64，i5 8500, 双方均使用VS2019的cl.exe /O2编译：
-
-||QuickPy|C++|
-|:---:|:---:|:---:|
-|递归计算fib|1.824000 s|1856 ms|
-|双重循环整数计算|2.034500 s|1950 ms|
+|递归计算fib|1.97 s|3.75 s|1.83 s|7.08 s|
+|循环叠加字符串|-|4.07 s|3.42 s|3.47 s|
+|双重循环整数计算|0.19 s|2.13 s|0.19 s|1.39 s|
 
 ```python
 import time
@@ -88,7 +79,7 @@ import time
 start = time.time()	
 sum = 0
 for i in range(100000):
-	for j in range(100000):
+	for j in range(10000):
 		sum += i * j
 print(sum)
 print(time.time() - start)
@@ -105,7 +96,7 @@ int main()
 	int64 sum = 0ll;
 	for (int64 i = 0ll;i < 100000ll; i++)
 	{
-		for (int64 j = 0ll;j < 100000ll; j++)
+		for (int64 j = 0ll;j < 10000ll; j++)
 		{
 			sum += i * j;
 		}
@@ -116,7 +107,7 @@ int main()
 }
 ```
 
-因为QuickPy的整数为64位，C++这边也使用int64以示公平，双重循环计算比C++慢了84.5 ms是因为误差，本文作者已多次校验，QuickPy生成的C++代码是0性能损失，代码片段如下：
+因为QuickPy的整数为64位，C++这边也使用int64以示公平，递归计算的0.14 s差距是因为误差，本文作者已多次校验，QuickPy生成的C++代码是0性能损失，代码片段如下：
 
 ```cpp
 ( start = ( time . time ) ( ) ) ;
@@ -127,7 +118,7 @@ _for_judge_2 : ;
 if ( _COND == 0ll ) { goto _for_end_2 ; } ;
 ( j = 0ll ) ;
 _for_judge_3 : ;
-( _COND = ( j < 100000ll ) ) ;
+( _COND = ( j < 10000ll ) ) ;
 if ( _COND == 0ll ) { goto _for_end_3 ; } ;
 ( sum = ( sum + ( i * j ) ) ) ;
 _for_add_3 : ;
