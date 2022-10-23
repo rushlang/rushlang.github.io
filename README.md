@@ -37,8 +37,6 @@
 
 [对“当且仅当”的思考](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对当且仅当的思考.md)
 
-[改变自己](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/改变自己.md)
-
 [书单](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/书单.md)
 
 [老博客汇总](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/老博客汇总.md)
