@@ -4,7 +4,7 @@
 
 QuickPy是一门新编程语言，它的语法和Python完全相同，但性能却和C++相同，QuickPy编译管线如下：
 
-![github](https://github.com/roundsheep/roundsheep.github.io/blob/master/pic/qpy.PNG "github")
+![](/pic/qpy.PNG)
 
 ##### 特性如下：
 
