@@ -5,45 +5,43 @@
 
 [QuickPy：动态类型语言的终极性能](/blog/qpy.md)
 
-[ken：C++ 、Python混合前端编译器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/ken.md)
+[ken：C++ 、Python混合前端编译器](/blog/ken.md)
 
-[奇特的自我辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/奇特的自我辩论.md)
+[奇特的自我辩论](/blog/奇特的自我辩论.md)
 
-[对亲子关系的研究](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对亲子关系的研究.md)
+[对亲子关系的研究](/blog/对亲子关系的研究.md)
 
-[关于“文字游戏”的辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/关于文字游戏的辩论.md)
+[关于“文字游戏”的辩论](/blog/关于文字游戏的辩论.md)
 
-[一种可以自我修改的计算机器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/一种可以自我修改的计算机器.md)
+[一种可以自我修改的计算机器](/blog/一种可以自我修改的计算机器.md)
 
-[公平的中国象棋](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/公平的中国象棋.md)
+[公平的中国象棋](/blog/公平的中国象棋.md)
 
-[智商互虐游戏](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/智商互虐游戏.md)
+[智商互虐游戏](/blog/智商互虐游戏.md)
 
-[如何证明任何使用无理数的计算机游戏都是错误的？](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/如何证明任何使用无理数的计算机游戏都是错误的.md)
+[如何证明任何使用无理数的计算机游戏都是错误的？](/blog/如何证明任何使用无理数的计算机游戏都是错误的.md)
 
-[“相对论”概述（初中时写的）](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/相对论概述.md)
+[“相对论”概述（初中时写的）](/blog/相对论概述.md)
 
 #### 随笔：
 
-[控制与反控制](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/控制与反控制.md)
+[控制与反控制](/blog/控制与反控制.md)
 
-[意识流](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/意识流.md)
+[意识流](/blog/意识流.md)
 
-[专才与通才](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/专才与通才.md)
+[专才与通才](/blog/专才与通才.md)
 
-[心理博弈](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/心理博弈.md)
+[心理博弈](/blog/心理博弈.md)
 
-[我为什么喜欢辩论](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/我为什么喜欢辩论.md)
+[我为什么喜欢辩论](/blog/我为什么喜欢辩论.md)
 
-[对“当且仅当”的思考](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/对当且仅当的思考.md)
+[对“当且仅当”的思考](/blog/对当且仅当的思考.md)
 
-[书单](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/书单.md)
+[书单](/blog/书单.md)
 
-[老博客汇总](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/老博客汇总.md)
+[老博客汇总](/blog/老博客汇总.md)
 
-#### 口语化文章（音频）：
-
-[《我是个怪圈》读后感](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/我是个怪圈读后感.md)
+[《我是个怪圈》读后感](/blog/我是个怪圈读后感.md)
 
 <br/>
 

@@ -3,7 +3,7 @@
 ##### ken是什么？
 ken是一个C++ 、Python混合前端编译器，也可以把它当作C++和Python的交互媒介，利用它可以让C++、Python无缝融合，它的编译管线如下：
 
-![github](https://github.com/roundsheep/roundsheep.github.io/blob/master/pic/ken.PNG "github")
+![](/pic/ken.PNG)
 
 ##### 主要解决什么问题？
 目前最好的Python调用C++的框架是pybind11。但在pybind11中，C++调用Python非常繁琐，且传递嵌套的复杂结构（如vector<vector<double>>）也很繁琐。
