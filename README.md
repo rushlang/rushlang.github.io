@@ -3,7 +3,7 @@
 
 #### 深度思考：
 
-[QuickPy：动态类型语言的终极性能](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/qpy.md)
+[QuickPy：动态类型语言的终极性能](/blog/qpy.md)
 
 [ken：C++ 、Python混合前端编译器](https://github.com/roundsheep/roundsheep.github.io/blob/master/blog/ken.md)
 
