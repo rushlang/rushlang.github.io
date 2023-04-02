@@ -12,24 +12,8 @@
 		var xmlhttp = new XMLHttpRequest();
 
 		// 设置访问的文件路径
-		var fileUrl = "http://gitee.com/rppp/gitee_public/raw/master/test.txt";
-		fileUrl = "https://github.com/rppp/gitee_public/blob/master/test.txt";
-	    	fileUrl="README.md";
+		var fileUrl="test.txt";
 	    	//fileUrl="www.baidu.com";
-	    
-	    	function getTextFile(url, callback) {
-		  var script = document.createElement('script');
-		  script.src = url + '?callback=' + callback;
-		  document.getElementsByTagName('head')[0].appendChild(script);
-		}
-
-		//使用示例
-		//getTextFile(fileUrl, 'myCallbackFunction');
-
-		function myCallbackFunction(data) {
-		  console.log(data);
-		}
-	    	console.log(111);
 	    
 		// 发送GET请求
 	    	//xmlhttp.setRequestHeader("Authorization","token_value");　　//设置请求头认证,header 设置必须放在 open() 后面
