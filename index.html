@@ -14,13 +14,27 @@
 		// 设置访问的文件路径
 		var fileUrl = "http://gitee.com/rppp/gitee_public/raw/master/test.txt";
 		fileUrl = "https://github.com/rppp/gitee_public/blob/master/test.txt";
-	    	fileUrl="www.baidu.com";
+	    	//fileUrl="www.baidu.com";
+	    
+	    	function getTextFile(url, callback) {
+		  var script = document.createElement('script');
+		  script.src = url + '?callback=' + callback;
+		  document.getElementsByTagName('head')[0].appendChild(script);
+		}
+
+		//使用示例
+		getTextFile(fileUrl, 'myCallbackFunction');
+
+		function myCallbackFunction(data) {
+		  console.log(data);
+		}
+	    
 		// 发送GET请求
 	    	//xmlhttp.setRequestHeader("Authorization","token_value");　　//设置请求头认证,header 设置必须放在 open() 后面
 		//xml.setRequestHeader("Cookie","cookiename=value");
 	    	//xmlhttp.withCredentials = true; //一个布尔值，用来指定跨域 Access-Control 请求是否应带有授权信息，如 cookie 或授权 header 头。
 	    	// xhr.responseType='json';// 请求所期待返回的数据类型
-		xmlhttp.open("GET", fileUrl, true);
+		//xmlhttp.open("GET", fileUrl, true);
 		
 
 		// 监听状态变化
@@ -32,7 +46,7 @@
 			console.log(fileContent);
 		  }
 		};
-	    	xmlhttp.send();
+	    	//xmlhttp.send();
 	
         // 创建WebSocket对象
         /*var ws = new WebSocket('ws://118.255.156.155:998');
