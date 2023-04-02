@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WebSocket示例</title>
+</head>
+<body>
+    <h1>WebSocket示例</h1>
+
+    <script type="text/javascript">
+		
+		var xmlhttp = new XMLHttpRequest();
+
+		// 设置访问的文件路径
+		var fileUrl = "https://gitee.com/rppp/gitee_public/raw/master/test.txt";
+
+		// 发送GET请求
+		xmlhttp.open("GET", fileUrl, true);
+		xmlhttp.send();
+
+		// 监听状态变化
+		xmlhttp.onreadystatechange = function() {
+		  if (this.readyState == 4 && this.status == 200) {
+			// 获取响应文本
+			var fileContent = xmlhttp.responseText;
+			// 输出到控制台
+			console.log(fileContent);
+		  }
+		};
+	
+        // 创建WebSocket对象
+        var ws = new WebSocket('ws://118.255.156.155:998');
+
+        // 监听WebSocket事件
+        ws.onopen = function() {
+            console.log('WebSocket连接已建立');
+			ws.send('Hello, WebSocket!');
+        };
+
+        ws.onmessage = function(event) {
+            console.log('接收到WebSocket消息：', event.data);
+        };
+
+        ws.onclose = function(event) {
+            console.log('WebSocket连接已关闭');
+        };
+
+        ws.onerror = function(event) {
+            console.log('WebSocket连接发生错误');
+        };
+
+        // 发送WebSocket消息
+       // 
+    </script>
+</body>
+</html>
